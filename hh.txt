@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body bgcolor="#E6E6FA">
+    <style>
+    .content {
+               max-width: 71%;
+               margin: auto;
+               border: INDIGO 3px solid;
+             }
+    </style>
+    
+<div id="quote" class="content">
+	<script src="imag.png"></script>
+</div>
+</body>
+</html>
